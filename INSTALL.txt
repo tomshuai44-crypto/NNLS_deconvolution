@@ -1,0 +1,11 @@
+NNLS deconvolution v1.1.3 - Fiji / ImageJ installation
+
+1. Extract NNLS_Deconvolution_v1.1.3_install.zip once.
+2. Copy the complete NNLS_Deconvolution.jar into Fiji/plugins/.
+3. Do NOT unzip or extract NNLS_Deconvolution.jar.
+4. Restart Fiji.
+5. Open one RGB image, then Plugins > Analyze > NNLS deconvolution.
+
+A JAR contains .class files and plugins.config. Seeing these after extracting
+means you have opened the JAR itself; install the intact JAR instead.
+Replace an existing NNLS_Deconvolution.jar rather than keeping duplicate copies.
